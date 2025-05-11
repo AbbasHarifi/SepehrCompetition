@@ -1,7 +1,3 @@
-Here is a sample `README.md` file generated based on the contents of your PowerPoint file:
-
----
-
 # Differential Wheeled Robot - Kinematics and Control
 
 This project focuses on the kinematic modeling and control of a **Differential Wheeled Robot**, including both continuous and discrete dynamics, as well as a simple control approach using the **Line of Sight** method.
