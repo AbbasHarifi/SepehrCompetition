@@ -11,7 +11,6 @@ for t=T
     Robot=UpdateRobot(Robot,wl,wr);
     ShowRobot(Robot)    
     ShowEnvironment(Environment,Target)
-    writeAnimation(gcf,'loop.gif','LoopCount',1)
     pause(dt)
 end
 
